@@ -41,3 +41,18 @@ mark {background-color: #04D9FF; color: black;}
 
 /* Add some padding inside the card container */
 .container { background-color: white; padding: 2px 16px;}
+
+div.scroll-container {
+  background-color: #FF69B4;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+.my-image {
+  max-width: 100%;
+  height: auto;
+}
