@@ -19,7 +19,6 @@ li a:hover {background-color: #FF69B4;}
 .active {background-color: #04D9FF;}
 a:link {color: #FF69B4;}
 a:visited {color: black;}
-img {float: left;}
 mark {background-color: #04D9FF; color: black;}
 /* Style the links inside the navigation bar */
     nav a {float: center; text-align: left; padding: 14px 16px; text-decoration: none;}
@@ -53,4 +52,8 @@ div.scroll-container {
 
 div.scroll-container img {
   padding: 10px;
+}
+.my-image {
+  max-width: 100%;
+  height: auto;
 }
