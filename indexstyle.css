@@ -2,10 +2,10 @@ body {background-color: white;}
 img{border:5px solid white;}
 .header {background-color: #3C1C12ff;text-align: center;padding: 20px;}
 .footer {background-color: #3C1C12ff;text-align: center;padding: 10px;}
-@font-face {font-family: 'ToonySans'; src: url(ToonySans.otf)}
+@font-face {font-family: 'LEMONMILK-Bold'; src: url(LEMONMILK-Bold.otf)}
 @font-face {font-family: 'THEBOLDFONT'; src: url(THEBOLDFONT.ttf)}
 @font-face {font-family: 'Pragmatica-ExtraLight'; src: url(Pragmatica-ExtraLight.ttf)}
-h1{color:#000000;font-family:ToonySans;font-size:150px}
+h1{color:white;font-family:LEMONMILK-Bold;font-size:100px}
 h2{color:black;font-family:THEBOLDFONT;font-size:75px;text-align: center;}
 h3{color:black;font-family:THEBOLDFONT;font-size:36px;text-align: center;}
 h4{color:black;font-family:THEBOLDFONT;font-size:15px;}
@@ -44,7 +44,7 @@ mark {background-color: #04D9FF; color: black;}
 .container { background-color: white; padding: 2px 16px;}
 
 div.scroll-container {
-  background-color: #FF69B4;
+  background-color: #43271Eff;
   overflow: auto;
   white-space: nowrap;
   padding: 10px;
