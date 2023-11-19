@@ -4,8 +4,8 @@ body {background-color: white;}
 @font-face {font-family: 'LEMONMILK-Bold'; src: url(LEMONMILK-Bold.otf)}
 @font-face {font-family: 'THEBOLDFONT'; src: url(THEBOLDFONT.ttf)}
 @font-face {font-family: 'Pragmatica-ExtraLight'; src: url(Pragmatica-ExtraLight.ttf)}
-h1{color:#000000;font-family:LEMONMILK-Bold;font-size:100px}
-h2{color:black;font-family:THEBOLDFONT;font-size:75px;text-align: center;}
+h1{color:#FDBD01;font-family:LEMONMILK-Bold;font-size:100px}
+h2{color:#3C1C12ff;font-family:THEBOLDFONT;font-size:75px;text-align: center;}
 h3{color:black;font-family:THEBOLDFONT;font-size:36px;text-align: center;}
 h4{color:black;font-family:THEBOLDFONT;font-size:15px;text-align: center;}
 h5{color:black;font-family:Pragmatica-ExtraLight;font-size:15px;text-align: left;margin-left:15px;margin-right:15px;}
@@ -13,11 +13,10 @@ p{color:black;font-family:Pragmatica-ExtraLight;font-size:15px;margin-left:15px;
 li a {display: block;color: black;font-family:THEBOLDFONT;font-size:24px;text-align: center;padding: 14px 16px;text-decoration: none;}
 ul {list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #FFFFFF;}
 li {float: left;}
-/* Change the link color to #FF69B4 on hover */
-li a:hover {background-color: #FF69B4;}
-.active {background-color: #04D9FF;}
-a:link {color: #FF69B4;}
-a:visited {color: black;}
+/* Change the link color to #E2C88Aff on hover */
+li a:hover {background-color: #63422Eff;}
+.active {background-color: #FDBD01;}
+a:link {color: #3C1C12ff;}
 mark {background-color: #04D9FF; color: black;}
 /* Style the links inside the navigation bar */
     nav a {float: center; text-align: left; padding: 14px 16px; text-decoration: none;}
@@ -73,7 +72,7 @@ mark {background-color: #04D9FF; color: black;}
   background-color: transparent;
   width: 300px;
   height: 460px;
-  border: 2px solid #FF69B4;
+  border: 2px solid #c5a3d9ff;
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
 
