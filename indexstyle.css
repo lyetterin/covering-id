@@ -15,8 +15,8 @@ li a {display: block;color: black;font-family:THEBOLDFONT;font-size:24px;text-al
 ul {list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #FFFFFF;}
 li {float: left;}
 /* Change the link color to #E2C88Aff on hover */
-li a:hover {background-color: #FDBD01;}
-.active {background-color: #63422Eff;}
+li a:hover {background-color: #63422Eff;}
+.active {background-color: #FDBD01;}
 a:link {color: #3C1C12ff;}
 mark {background-color: #04D9FF; color: black;}
 /* Style the links inside the navigation bar */
