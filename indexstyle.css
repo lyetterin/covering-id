@@ -5,7 +5,7 @@ img{border:5px solid white;}
 @font-face {font-family: 'LEMONMILK-Bold'; src: url(LEMONMILK-Bold.otf)}
 @font-face {font-family: 'THEBOLDFONT'; src: url(THEBOLDFONT.ttf)}
 @font-face {font-family: 'Pragmatica-ExtraLight'; src: url(Pragmatica-ExtraLight.ttf)}
-h1{color:white;font-family:LEMONMILK-Bold;font-size:100px}
+h1{color:#FDBD01;font-family:LEMONMILK-Bold;font-size:100px}
 h2{color:#3C1C12ff;font-family:THEBOLDFONT;font-size:75px;text-align: center;}
 h3{color:black;font-family:THEBOLDFONT;font-size:36px;text-align: center;}
 h4{color:black;font-family:THEBOLDFONT;font-size:15px;}
